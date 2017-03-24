@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="170px" height="110px" viewBox="0 0 170 110" enable-background="new 0 0 170 110" xml:space="preserve">
+<path fill="#E6E6E5" d="M114.33,41.99c0.81,0,1.46,0.66,1.46,1.48v44.9c0,0.82-0.65,1.48-1.46,1.48H48.44
+	c-0.8,0-1.46-0.66-1.46-1.48v-44.9c0-0.82,0.65-1.48,1.46-1.48H114.33 M114.33,38H48.44C45.44,38,43,40.45,43,43.47v44.9
+	c0,3.02,2.44,5.47,5.44,5.47h65.89c3.01,0,5.44-2.45,5.44-5.47v-44.9C119.77,40.45,117.34,38,114.33,38L114.33,38z"/>
+<path fill="#FFEE7A" d="M128,100.25c0,1.52-1.22,2.75-2.73,2.75H102.4c-1.51,0-2.73-1.23-2.73-2.75V61.81
+	c0-1.52,1.23-2.75,2.73-2.75h22.87c1.51,0,2.73,1.23,2.73,2.75L128,100.25L128,100.25z"/>
+<rect x="69.5" y="99.34" fill="#E6E6E5" width="25.59" height="3.66"/>
+</svg>

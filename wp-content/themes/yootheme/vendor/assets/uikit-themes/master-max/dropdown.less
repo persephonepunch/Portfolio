@@ -1,0 +1,53 @@
+//
+// Component: Dropdown
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@dropdown-background:                           @global-background;
+
+@dropdown-nav-item-color:                       @global-color;
+
+@dropdown-nav-item-hover-color:                 @global-inverse-color;
+@dropdown-nav-sublist-item-hover-color:         @global-link-color;
+
+//
+// Master
+//
+
+@dropdown-box-shadow:                           @global-small-box-shadow;
+
+@dropdown-nav-margin-horizontal:                -@dropdown-padding;
+@dropdown-nav-item-padding-vertical:            8px;
+@dropdown-nav-item-padding-horizontal:          25px;
+
+@dropdown-nav-item-hover-background:            @global-primary-background;
+
+
+// Component
+// ========================================================================
+
+.hook-dropdown() {}
+
+
+// Nav
+// ========================================================================
+
+.hook-dropdown-nav() {}
+
+.hook-dropdown-nav-item() {}
+
+.hook-dropdown-nav-item-hover() {}
+
+.hook-dropdown-nav-header() {}
+
+.hook-dropdown-nav-divider() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-dropdown-misc() {}
